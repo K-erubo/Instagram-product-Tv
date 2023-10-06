@@ -10,3 +10,4 @@ My data set contains;
 4. Views and Watch Time: These metrics are crucial for video content platforms. The number of views and total watch time reveal how much users engage with videos.
 
 The results attached show highest number of user engagement was views followed up shares then comments and likes. The average minutes spent is the lowest.
+For us to know if the product is successful, we'll have to know the target set for engagement metrics.
